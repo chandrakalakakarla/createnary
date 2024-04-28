@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistRomanBold.ttf");
+  font-family: "Urbanist";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistRomanMedium.ttf");
+  font-family: "Urbanist";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistRomanSemiBold.ttf");
+  font-family: "Urbanist";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/UrbanistMedium.ttf");
+  font-family: "Urbanist";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/MonotonRegular.ttf");
+  font-family: "Monoton";
+  font-weight: 400;
+}
